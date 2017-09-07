@@ -1,0 +1,5 @@
+dist
+build
+*.pys
+*.egg-info
+*.eggs
